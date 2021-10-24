@@ -1,11 +1,9 @@
 ﻿#include <iostream>
-#include <string>
 
 using std::logic_error;
 using std::cout;
 using std::cin;
 using std::cerr;
-using std::stoi;
 using std::endl;
 
 auto main(int argc, const char* argv[]) -> int
